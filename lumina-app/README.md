@@ -78,6 +78,12 @@ npm run dev
 ## Live App
 Open [https://lumina-journal-923k.vercel.app/](https://lumina-journal-923k.vercel.app/)
 
+## Demo & Documentation
+
+**Video Demo:** [Watch 5-minute walkthrough here](https://youtu.be/HsSZKOZtM5Y)
+
+**Design Documentation:** [View detailed design doc on Google Docs](https://docs.google.com/document/d/1pX-SVP5WS7p6wD3d65NUrpqHiGCwkuLYPsCeNJE2-XI/edit?usp=sharing)
+
 ## Usage
 
 1. **Sign Up** - Create an account with email and password
